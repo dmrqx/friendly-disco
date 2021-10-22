@@ -1,0 +1,25 @@
+{
+  "name": "friendly-disco",
+  "version": "0.1.0",
+  "description": "Dr. Cannabis Front-End Assessment",
+  "homepage": "https://github.com/dmrqx/friendly-disco/blob/README.md",
+  "bugs": "https://github.com/dmrqx/friendly-disco/issues",
+  "license": "UNLICENSED",
+  "author": "Juliana Demarque <dev@demarque.com.br> (https://demarque.com.br)",
+  "repository": "github:dmrqx/friendly-disco",
+  "scripts": {
+    "start": "echo \"Error: no start command specified\" && exit 1",
+    "build": "echo \"Error: no build command specified\" && exit 1",
+    "test": "echo \"Error: no test command specified\" && exit 1"
+  },
+  "engines": {
+    "node": "14.17.0",
+    "npm": "7.24.2"
+  },
+  "type": "module",
+  "private": true,
+  "browserslist": [
+    "last 2 version",
+    "> 1%"
+  ]
+}
